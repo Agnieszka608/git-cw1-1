@@ -1,0 +1,14 @@
+p {
+    color: green;
+    border: 1px solid blue;
+    text-align: center;
+}
+
+#title1{
+    font-size: 20px;
+}
+
+input[type="text"] {
+    background-color: yellow;
+    border-radius: 3px;
+}
