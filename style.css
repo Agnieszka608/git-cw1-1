@@ -12,3 +12,14 @@ input[type="text"] {
     background-color: yellow;
     border-radius: 3px;
 }
+
+.description1 {
+    font-weight: bold;
+    color: red;
+}
+
+input[type="number1"] {
+    background-color: aquamarine;
+}
+
+
